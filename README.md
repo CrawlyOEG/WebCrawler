@@ -1,3 +1,6 @@
+WebCrawler
+===================================================
+
 `WebCrawler` is a library to obtain articles related to light pollution.
 
 © 2018 Jorge Galán - OEG-UPM. Available under Apache License 2.0. See [`LICENSE`](LICENSE).
@@ -43,4 +46,4 @@ mvn clean compile assembly:single
 
 Then, get your own version of the jar in the project's `target` folder.
 
-<a title="OEG Laboratory" href="http://www.oeg-upm.net/" target="_blank"><img alt="OEG Laboratory" src="http://stars4all.eu/wp-content/uploads/2016/10/OEG.png"></a>
+<a title="OEG Laboratory" href="http://www.oeg-upm.net/" target="_blank"><img alt="OEG Laboratory" src="http://stars4all.eu/wp-content/uploads/2016/10/OEG.png" width="70" height="70"></a>
