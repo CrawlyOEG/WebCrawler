@@ -46,4 +46,4 @@ mvn clean compile assembly:single
 
 Then, get your own version of the jar in the project's `target` folder.
 
-<a title="OEG Laboratory" href="http://www.oeg-upm.net/" target="_blank"><img alt="OEG Laboratory" src="http://stars4all.eu/wp-content/uploads/2016/10/OEG.png" width="150" height="200"></a>
+<a title="OEG Laboratory" href="http://www.oeg-upm.net/" target="_blank"><img alt="OEG Laboratory" src="http://stars4all.eu/wp-content/uploads/2016/10/OEG.png" width="150"  height="200"></a>
